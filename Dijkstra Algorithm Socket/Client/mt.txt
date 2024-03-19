@@ -1,0 +1,1 @@
+Hai cần cẩu lớn bốc dỡ một lô hàng ở cảng Sài Gòn. Sau 3 giờ có thêm năm cần cẩu bé (công suất bé hơn) cùng làm việc. Cả bảy cần cẩu làm việc 3 giờ nữa thì xong. Hỏi mỗi cần cẩu làm việc một mình bao lâu thì xong việc, biết rằng nếu cả bảy cần cẩu làm việc một mình bao lâu thì xong việc, biết rằng nếu cả bảy cần cẩu cùng làm việc từ đầu thì trong 4 giờ xong việc.

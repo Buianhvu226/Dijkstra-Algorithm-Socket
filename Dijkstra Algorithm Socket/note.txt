@@ -1,0 +1,5 @@
+- Anh sang Việt (Phép toán định đường phân tán)
+-  Chú thích trọng số
+- Dời logout sang trái + Hello nằm cạnh
+- Màu nút 2 form reg, trang trí css chữ
+- nút quay về client
